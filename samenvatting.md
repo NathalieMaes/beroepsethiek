@@ -45,6 +45,14 @@ omgezet naar markdown via pandoc en manuele aanpassingen door Haroen Viaene
   * [Conflicten op de werkplek](#conflicten-op-de-werkplek)
   * [Het socratisch model van leiderschap](#het-socratisch-model-van-leiderschap)
   * [Emotionele intelligentie](#emotionele-intelligentie)
+- [Module 4: Ethische cases](#module-4-ethische-cases)
+  * [Mission statement](#mission-statement)
+  * [Reflectie waarden](#reflectie-waarden)
+  * [Cases](#cases)
+  * [Analyse morele dilemma's](#analyse-morele-dilemmas)
+  * [Communicatie en emotionele intelligentie](#communicatie-en-emotionele-intelligentie)
+  * [Communicatietheorie Watzlawick: 5 Axioma's](#communicatietheorie-watzlawick-5-axiomas)
+  * [Emotionele intelligentie](#emotionele-intelligentie-1)
 
 <!-- tocstop -->
 
