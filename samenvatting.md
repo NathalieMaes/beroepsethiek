@@ -79,24 +79,24 @@ een bedrijf in contact komt
 
     * Concrete vragen:
 
-1.  Moet het bedrijf eerlijk zijn tegenover de klanten?
+        1.  Moet het bedrijf eerlijk zijn tegenover de klanten?
 
-1.  Mag een bedrijf werknemers in het zwart uitbetalen?
+        1.  Mag een bedrijf werknemers in het zwart uitbetalen?
 
-1.  Moeten de medewerkers inspraak hebben in het bedrijf?
+        1.  Moeten de medewerkers inspraak hebben in het bedrijf?
 
-1.  Beroepsethiek
+        1.  Beroepsethiek
 
     * Het nadenken over de verschillende normen & waarden die een rol spelen
 bij de uitoefening van een bepaald beroep
 
     * Concrete vragen:
 
-1.  Hoe ga je als verkoper om met je klanten?
+        1.  Hoe ga je als verkoper om met je klanten?
 
-1.  Hoe ver mag je als reclamemaker gaan met zaken als seks & dood?
+        1.  Hoe ver mag je als reclamemaker gaan met zaken als seks & dood?
 
-1.  Hoe moet je omgaan met vertrouwelijke informatie?
+        1.  Hoe moet je omgaan met vertrouwelijke informatie?
 
 Bedrijfs- en beroepsethiek zijn onderscheiden, maar toch nauw verbonden:
 het individuele gedrag van werknemers heeft een weerslag op het
@@ -411,15 +411,15 @@ productiemiddelen bezit
     * Beperking van de macht van de vakbonden
 
     * Deregulering van de economie
-    
+
 1. Stéphane Hessel
 
     * Boek "Neem het niet"
-    
+
     * Jongere generaties oproepen
-    
+
     * Tegen elke vorm van onrecht
-    
+
     * Tegen verbreding kloof arm <-> rijk
 
 ### Kapitalisme vandaag
