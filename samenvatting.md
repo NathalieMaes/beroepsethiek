@@ -184,7 +184,7 @@ vertragingen te aanvaarden, ten koste van de veiligheid
 
 1.  Stakeholders = de belanghebbenden van een onderneming
 
-1.  In de bedrijfsethiek: wie kan er redelijkerwijze aansprak op maken
+1.  In de bedrijfsethiek: wie kan er redelijkerwijze aanspraak op maken
     dat met zijn eigen belangen rekening wordt gehouden
 
     * Veeleer: welke belangen zijn moreel gerechtvaardigd
@@ -411,6 +411,16 @@ productiemiddelen bezit
     * Beperking van de macht van de vakbonden
 
     * Deregulering van de economie
+    
+1. Stéphane Hessel
+
+    * Boek "Neem het niet"
+    
+    * Jongere generaties oproepen
+    
+    * Tegen elke vorm van onrecht
+    
+    * Tegen verbreding kloof arm <-> rijk
 
 ### Kapitalisme vandaag
 
@@ -667,13 +677,13 @@ norm
 
 #### Morele normen, regels en wet
 
-1.  Juridische & ethische normane vallen niet altijd samen
+1.  Juridische & ethische normen vallen niet altijd samen
 
     * Iets dat moreel goed is, is niet altijd legaal & vice versa
 
     * VB: belofte doen zonder die na te komen, een gewonde aan overdreven
 snelheid naar het ziekenhuis brengen, zwart bijklussen, overspel plegen,
-bloeken,...
+vloeken,...
 
 1.  Rechterlijke uitspraken zijn vaak gebaseerd op de eigen ethische
     afwegingen van de rechters
@@ -681,7 +691,7 @@ bloeken,...
 #### Missionstatement
 
 1.  = Een verklaring van de doelstellingen van een organisatie in
-    relatie tot de verantwoordelijkheden die zij op zicht neemt naar
+    relatie tot de verantwoordelijkheden die zij op zich neemt naar
     haar stakeholders toe
 
 1.  Beantwoordt vragen zoals:
