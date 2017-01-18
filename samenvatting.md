@@ -964,3 +964,103 @@ bemiddelaar op te treden & doeltreffende oplossingen voor te stellen
     * Optimisme
 
 1.  Een positieve ingesteldheid behouden als het tegenzit
+
+
+## Module 4: Ethische cases
+
+### Mission statement
+
+Elk bedrijf heeft een mission statement, uiteengezet in document / op hun site.
+
+### Reflectie waarden
+
+"Denk eens na over welke waarden je belangrijk vindt"
+
+### Cases
+
+1. Giftige stoffen fabriek
+
+    - Ga je whistle blowen?
+
+1. Relatiegeschenken
+
+    - Neem je ze aan zoals je collega's?
+
+1. Werknemers bespieden
+
+    - Baas kijkt continue mee met camera's. What do?
+
+1. Pesten op het werk
+
+    - Je vindt de persoon zelf niet chill. What do?
+
+1. Veiligheid & tijdsdruk
+
+    - Winst of risico?
+
+1. Privacy
+
+    - Je repareert computer. Persoon kijkt elke dag porno op zijn werk. Melden?
+
+1. Carrière
+
+Welke waarden zoek je in een bedrijf?
+
+### Analyse morele dilemma's
+
+-> Een techiek om elk ethisch probleem "op te lossen"
+
+1. Kern probleem opstellen
+
+    - Enkel het "moreel probleem" er uit filteren
+
+1. Beschrijf de belangen van alle betrokkenen
+
+1. Beschrijf alternatieven
+
+    - Zijn er verschillende oplossingen?
+
+1. Per alternatief: Wie wordt er positief/negatief geraakt?
+
+1. Welke morele normen/waarden komen aan bod?
+
+1. Maak een beredeneerde conclusie
+
+### Communicatie en emotionele intelligentie
+
+Verbale vs non-verbale Communicatie
+
+Ruis op communicatie: persoonlijke bias, dubbelzinnigheid, non-verbale comm. niet zichtbaar, ...
+
+### Communicatietheorie Watzlawick: 5 Axioma's
+
+Axioma: Algemeen aanvaarde doch niet bewezen stelling
+
+1. Het is onmogelijk om niet te communiceren
+
+    - Elk gedrag is Communicatie
+
+1. We beïnvloeden met en zonder woorden
+
+    - Digitale taal: Overeengekomen taal (geschreven, gesproken)
+
+    - Analoge taal: Niet overeengekomen taal (cultureel bepaald, non-verbaal)
+
+1. Elk zijn waarheid
+
+    - Context ander begrijpen
+
+1. Je spreekt altijd dubbel
+
+    - Praten = zeggen hoe ik wil dat de ander met mij omgaat
+    - Relationeel aspect communicatie
+    - Inhoudelijk aspect communicatie
+
+1. Wie heeft her voor het zeggen?
+
+    - Symmetrische communicatie: Gelijke hiërarchie
+    - Complementaire communicatie: Aanvullend: niet hiërarchisch
+
+### Emotionele intelligentie
+
+-> Exact hetzelfde stuk als voorheen, nu hier gecopypaste
