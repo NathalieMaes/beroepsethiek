@@ -382,7 +382,7 @@ tekenkarakter ontlenen
 *  Uitgangspunt: vrijheid van het individu & beperkte macht van de
     staat
 
-*  Adam Smith (*e eeuw)
+*  Adam Smith (18e eeuw)
 
     * Eerste econoom & uitvinder van liberaal kapitalisme: zo vrij mogelijke
 markt zorgt voor de meeste welvaart
@@ -391,7 +391,7 @@ markt zorgt voor de meeste welvaart
 
     * Nastreven van individueel belang zorgt voor het algemeen belang
 
-*  Karl Marx (*e eeuw)
+*  Karl Marx (19e eeuw)
 
     * Antikapitalist
 
@@ -456,7 +456,7 @@ meer opbrengst voor de financiële spelers
 
     * Regeringen moeten hun beleid laten bepalen door de internationale
 markten -> niet meer te dichten kloof tussen werkelijke
-behoeften\<-\>objectieve mogelijkheden
+behoeften \<-\> objectieve mogelijkheden
 
     * Ernstige aantasting van de Amerikaanse macht in de wereld
 
@@ -473,41 +473,41 @@ volk” alle voorrang verlenen
 
     * Kapitalisme loopt op zijn laatste benen, want:
 
-*  De behoefte aan arbeid vermindert
+        *  De behoefte aan arbeid vermindert
 
-*  Digitalisering & robotisering zullen banen vernietigen
+            *  Digitalisering & robotisering zullen banen vernietigen
 
-*  Vast werk wordt vervangen door flexibel werk -> grens tussen
-    werkn\<-\> vrije tijd vervaagt
+            *  Vast werk wordt vervangen door flexibel werk -> grens tussen
+            werken en vrije tijd vervaagt
 
-*  Het prijsmechanisme zal niet meer werken
+        *  Het prijsmechanisme zal niet meer werken
 
-*  Steeds meer goederen & diensten zullen gratis & in overvloed
-    beschikbaar zijn
+            *  Steeds meer goederen & diensten zullen gratis & in overvloed
+            beschikbaar zijn
 
-*  De deeleconomie, coöperaties, crowdfunding & andere losse verbanden
-    nemen de plek in van hiërarchisch geleide bedrijven
+        *  De deeleconomie, coöperaties, crowdfunding & andere losse verbanden
+            nemen de plek in van hiërarchisch geleide bedrijven
 
-*  Grens bereikt van het aanpassingsvermogen (zie: groeiende
-    ongelijkheid, klimaatverandering, oplopende schulden, demografische
-    zorgen)
+            *  Grens bereikt van het aanpassingsvermogen (zie: groeiende
+            ongelijkheid, klimaatverandering, oplopende schulden, demografische
+            zorgen)
 
     * Technologische revolutie zal ervoor zorgen dat een meer dynamisch
-systeem de waarden & gedragingen van onze huidige economie vervangt
+        systeem de waarden & gedragingen van onze huidige economie vervangt
 
     * Hij voorspelt een postkapitalistisch systeem van netwerk, vrije tijd,
-gratis producten & diensten
+        gratis producten & diensten
 
-*  Ongezien binnendringen van dit systeem = onmogelijk want: groot
-    maatschappelijk conflict tussen baanlozen \<-\> baanbezitters
+        *  Ongezien binnendringen van dit systeem = onmogelijk want: groot
+            maatschappelijk conflict tussen baanlozen \<-\> baanbezitters
 
-*  Ontstaan van een systeem van wederzijdse ruilhandel
+        *  Ontstaan van een systeem van wederzijdse ruilhandel
 
 ### Capitalism: A Love Story (Michael Moore)
 
 *  Kapitalisme is goed, maar “trop est trop”
 
-*  Na 9/*: Bush geeft Amerikanen heel goedkope leningen
+*  Na 9/11: Bush geeft Amerikanen heel goedkope leningen
 
     * Rentevoet stijgt
 
@@ -540,16 +540,16 @@ problemen
     * Allesomvattend & permanent karakter aangenomen van alles dat slecht
 gaat
 
-*  Salarissen omlaag, pensioenen omlaag, gezondheidszorg geprivatiseerd
+        *  Salarissen omlaag, pensioenen omlaag, gezondheidszorg geprivatiseerd
 
-*  Sociaal-democratie in EU wordt afgebouwd
+        *  Sociaal-democratie in EU wordt afgebouwd
 
-*  Voorgesteld als schuldencrisis, maar is een financiële crisis
+        *  Voorgesteld als schuldencrisis, maar is een financiële crisis
 
     * Veroorzaakt door gedereguleerd kapitaal dat speculeert met de miserie
 van de mensen
 
-*  Meer landen bankroet = sterkere verrijking voor dit system
+        *  Meer landen bankroet = sterkere verrijking voor dit system
 
     * Gevolgen: mensen verliezen hun werk of huis, of plegen zelfmoord
 
@@ -557,48 +557,44 @@ van de mensen
 
     * 7 grote bedreigingen
 
-*  Desorganisatie van de staat
+        *  Desorganisatie van de staat
 
-*  Alles wordt geprivatiseerd en ondergeschikt gemaakt aan de logica
+            *  Alles wordt geprivatiseerd en ondergeschikt gemaakt aan de logica
     van de markt
 
-*  Destabilisering van de democratie
+        *  Destabilisering van de democratie
 
-*  Het kapitalisme laat zijn ware, destructieve aard zien
+            *  Het kapitalisme laat zijn ware, destructieve aard zien
 
-*  Vernietiging van de rechten van mensen, hun toekomstperspectieven en
-    de natuur, met als doel om meer winst te maken
+            *  Vernietiging van de rechten van mensen, hun toekomstperspectieven en de natuur, met als doel om meer winst te maken
 
-*  Vermarkten van de kennis
+        *  Vermarkten van de kennis
 
-*  Kennis moet geld opleveren
+            *  Kennis moet geld opleveren
 
-*  Universiteiten investeren meer in biotech dan in humane
-    wetenschappen
+            *  Universiteiten investeren meer in biotech dan in humane wetenschappen
 
-*  Vernietiging van de natuur
+        *  Vernietiging van de natuur
 
-*  Extreme natuurrampen
+            *  Extreme natuurrampen
 
-*  Gevolg: vernietiging van de bestaansmiddelen van mensen op het
-    platteland
+            *  Gevolg: vernietiging van de bestaansmiddelen van mensen op het platteland
 
-*  Devaluatie van de arbeid
+        *  Devaluatie van de arbeid
 
-*  Werk, als instrument voor burgerrechten, is volledig geërodeerd
+            *  Werk, als instrument voor burgerrechten, is volledig geërodeerd
 
-*  Steeds grotere kloof tussen betaald\<-\>onbetaald werk
+            *  Steeds grotere kloof tussen betaald \<-\> onbetaald werk
 
-*  Criminalisering van het sociaal protest
+        *  Criminalisering van het sociaal protest
 
-*  Regeringen verbieden mensen om op straat te komen, zelfs voor
-    vreedzame protesten
+            *  Regeringen verbieden mensen om op straat te komen, zelfs voor vreedzame protesten
 
-*  Kolonisering van de hoofden & van alles wat anders is
+        *  Kolonisering van de hoofden & van alles wat anders is
 
-*  Racisme neemt nieuwe vormen aan, als discriminatie van andere visies
+            *  Racisme neemt nieuwe vormen aan, als discriminatie van andere visies
 
-*  VB: islamofobie
+            *  VB: islamofobie
 
 *  “Dit is wel een zeer omvattend donker beeld. Wat staat ons te doen
     in zo’n situatie?”
@@ -606,8 +602,7 @@ van de mensen
     * Er zijn talloze vormen van verzet tegen het huidige systeem, maar de
 media laten dit heel weinig blijken = “sociologie van het afwezige”
 
-    * Er wordt lokaal aan alternatieven gewerkt -> krijgen geen zichtbaarheid
--> mensen weten niet dat de alternatieven bestaan
+    * Er wordt lokaal aan alternatieven gewerkt -> krijgen geen zichtbaarheid -> mensen weten niet dat de alternatieven bestaan
 
 *  “Wat biedt dan wel nog perspectief?”
 
