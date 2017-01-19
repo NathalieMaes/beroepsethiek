@@ -67,7 +67,7 @@ Op verkenning door onbekend gebied
 
 #### Omschrijving en definities
 
-1.  Bedrijfsethiek
+*  Bedrijfsethiek
 
     * Het toepassen van ethiek op het concrete terrein van de bedrijfswereld
 
@@ -79,24 +79,24 @@ een bedrijf in contact komt
 
     * Concrete vragen:
 
-        1.  Moet het bedrijf eerlijk zijn tegenover de klanten?
+        *  Moet het bedrijf eerlijk zijn tegenover de klanten?
 
-        1.  Mag een bedrijf werknemers in het zwart uitbetalen?
+        *  Mag een bedrijf werknemers in het zwart uitbetalen?
 
-        1.  Moeten de medewerkers inspraak hebben in het bedrijf?
+        *  Moeten de medewerkers inspraak hebben in het bedrijf?
 
-        1.  Beroepsethiek
+        *  Beroepsethiek
 
     * Het nadenken over de verschillende normen & waarden die een rol spelen
 bij de uitoefening van een bepaald beroep
 
     * Concrete vragen:
 
-        1.  Hoe ga je als verkoper om met je klanten?
+        *  Hoe ga je als verkoper om met je klanten?
 
-        1.  Hoe ver mag je als reclamemaker gaan met zaken als seks & dood?
+        *  Hoe ver mag je als reclamemaker gaan met zaken als seks & dood?
 
-        1.  Hoe moet je omgaan met vertrouwelijke informatie?
+        *  Hoe moet je omgaan met vertrouwelijke informatie?
 
 Bedrijfs- en beroepsethiek zijn onderscheiden, maar toch nauw verbonden:
 het individuele gedrag van werknemers heeft een weerslag op het
@@ -105,23 +105,23 @@ het individuele gedrag van werknemers.
 
 ### Historische achtergrond
 
-1.  Ford Pinto
+*  Ford Pinto
 
     * Zo goedkoop mogelijke auto -> zeer brandgevaarlijk
 
     * Goedkoper om de nabestaanden & gewonden te vergoeden, dan om het
 probleem te verhelpen
 
-1.  Poedermelk voor babyvoeding in de derde wereld
+*  Poedermelk voor babyvoeding in de derde wereld
 
     * Verbruikers niet voldoende geïnformeerd
 
     * Toenemende ondervoeding & sterfte bij baby’s
 
-1.  Herald of Free Enterprise (schip)
+*  Herald of Free Enterprise (schip)
 
     * Assistent-bootsman was in slaap gevallen -> had de boegdeuren niet op
-tijd gesloten -> schip zinkt, 188 doden
+tijd gesloten -> schip zinkt, *8 doden
 
     * Officieren waren onder druk gezet door de bedrijfsleiding om geen
 vertragingen te aanvaarden, ten koste van de veiligheid
@@ -131,50 +131,50 @@ vertragingen te aanvaarden, ten koste van de veiligheid
 
 #### Veranderende maatschappelijke rol van de ondernemingen
 
-1.  Taken & bevoegdheden worden overgeheveld van overheid -> burgers,
+*  Taken & bevoegdheden worden overgeheveld van overheid -> burgers,
     organisaties & bedrijven (=deregulering)
 
-1.  Deregulering eist zelfregulering van bedrijven
+*  Deregulering eist zelfregulering van bedrijven
 
 #### Globalisering
 
-1.  Meer en meer internationaal zakendoen
+*  Meer en meer internationaal zakendoen
 
-1.  Verschillen tussen rijke & arme landen
+*  Verschillen tussen rijke & arme landen
 
-1.  ‘Global governance’ kan ‘global business’ niet bijhouden ->
+*  ‘Global governance’ kan ‘global business’ niet bijhouden ->
     wereldwijd tekort aan toezicht op het gedrag van het internationaal
     opererend bedrijfsleven
 
-1.  Cultuurverschillen
+*  Cultuurverschillen
 
 #### Technologische ontwikkeling
 
-1.  Wat te doen met medewerkers die de snelheid van de kenniseconomie
+*  Wat te doen met medewerkers die de snelheid van de kenniseconomie
     niet meer kunnen bijbenen?
 
-1.  Hoe zit het met de privacy van mensen?
+*  Hoe zit het met de privacy van mensen?
 
-1.  Risico’s (genetische modificatie, RSI, kernenergie- en afval,...)
+*  Risico’s (genetische modificatie, RSI, kernenergie- en afval,...)
 
 #### Democratisering van het moreel gezag
 
-1.  Kerk, politiek & wetenschap zijn naar de achtergrond geraakt
+*  Kerk, politiek & wetenschap zijn naar de achtergrond geraakt
 
-1.  “Eerst zien, dan geloven”
+*  “Eerst zien, dan geloven”
 
-1.  De morele opvattingen in de samenleving worden niet meer centraal
+*  De morele opvattingen in de samenleving worden niet meer centraal
     gestuurd
 
 ### Maatschappelijk verantwoord ondernemen & bedrijfsethiek
 
-1.  Ethisch handelen = denken aan het effect van je handelen op de
+*  Ethisch handelen = denken aan het effect van je handelen op de
     belangen van anderen
 
-1.  Verantwoordelijkheid = je bent verantwoordelijk voor anderen EN voor
+*  Verantwoordelijkheid = je bent verantwoordelijk voor anderen EN voor
     jezelf
 
-1.  Gemengde motieven: ondernemingen zien hun maatschappelijke
+*  Gemengde motieven: ondernemingen zien hun maatschappelijke
     verantwoordelijkheid in het perspectief van hun zakelijke belangen ->
     onderscheid tussen eigenbelang & maatschappelijke
     verantwoordelijkheid vervaagt
@@ -182,16 +182,16 @@ vertragingen te aanvaarden, ten koste van de veiligheid
 
 ### De stakeholders van de onderneming
 
-1.  Stakeholders = de belanghebbenden van een onderneming
+*  Stakeholders = de belanghebbenden van een onderneming
 
-1.  In de bedrijfsethiek: wie kan er redelijkerwijze aanspraak op maken
+*  In de bedrijfsethiek: wie kan er redelijkerwijze aanspraak op maken
     dat met zijn eigen belangen rekening wordt gehouden
 
     * Veeleer: welke belangen zijn moreel gerechtvaardigd
 
 ##### Verantwoordelijkheid voor stakeholders
 
-1.  Economische stakeholders
+*  Economische stakeholders
 
     * “Al degenen die investeren in het economisch verkeer met de onderneming
 en die een deel van het risico dragen”
@@ -200,19 +200,19 @@ en die een deel van het risico dragen”
 
     * Altijd spake van een economische ruilactie
 
-1.  Voorbeeld slechte stakeholding: Shell
+*  Voorbeeld slechte stakeholding: Shell
 
 
 ### De overheid als stakeholder
 
-1.  Economische EN maatschappelijke stakeholder
+*  Economische EN maatschappelijke stakeholder
 
 
 ### Verantwoordelijkheid voor consumenten
 
-1.  John F. Kennedy: Consumer Bill of Rights
+*  John F. Kennedy: Consumer Bill of Rights
 
-1.  4 grondrechten van de consument
+*  4 grondrechten van de consument
 
     * Het recht op veiligheid
 
@@ -224,32 +224,32 @@ en die een deel van het risico dragen”
 
 #### Productieverantwoordelijkheid
 
-1.  De producent moet zoveel mogelijk doen om te voorkomen dat de
+*  De producent moet zoveel mogelijk doen om te voorkomen dat de
     consument door productgebreken wordt geschaad
 
-1.  “Redelijke zorg”
+*  “Redelijke zorg”
 
     * Producenten hebben de plicht om door hun handelingen geen schade toe te
 brengen aan anderen
 
     * Twee grenzen aan de productieverantwoordelijkheid
 
-1.  Ontwikkelingsrisico
+        *  Ontwikkelingsrisico
 
-1.  Producenten zijn niet moreel verantwoordelijk voor schade die niet
-    te voorzien was
+            *  Producenten zijn niet moreel verantwoordelijk voor schade die niet
+                te voorzien was
 
-1.  VB: farmaceutische industrie
+            *  VB: farmaceutische industrie
 
-1.  Verantwoordelijkheid van de consument zelf
+        *  Verantwoordelijkheid van de consument zelf
 
-1.  Producenten zijn niet verantwoordelijk als een consument een product
-    onzorgvuldig gebruikt
+            *  Producenten zijn niet verantwoordelijk als een consument een product
+            onzorgvuldig gebruikt
 
 
 #### Reclame en ethiek
 
-1.  Informatieve functie
+*  Informatieve functie
 
     * De informatie over het geadverteerde product moet in overeenstemming
 zijn met de werkelijkheid
@@ -258,11 +258,11 @@ zijn met de werkelijkheid
 toch bepaalde kenmerken aan een product toeschrijft waardoor een product
 niet voldoet aan de verwachtingen
 
-1.  Pseudo-wetenschappelijke argumenten of reclameteksten vermomd als
+*  Pseudo-wetenschappelijke argumenten of reclameteksten vermomd als
     wetenschappelijke artikels
 
 
-1.  Persuasieve functie
+*  Persuasieve functie
 
     * Producenten willen potentiële kopers overtuigen & beïnvloeden
 
@@ -270,7 +270,7 @@ niet voldoet aan de verwachtingen
 
     * Associatieve reclame
 
-1.  VB: Coca Cola -> jong & levenskracht; Baccardi -> paradijselijke
+*  VB: Coca Cola -> jong & levenskracht; Baccardi -> paradijselijke
     toestanden
 
     * Fysieke behoeften zijn beperkt (voedsel, drank, kleding, woning)
@@ -289,59 +289,59 @@ aantrekking, macht, status,...)
     * Gevoelens & behoeften waarop niet ingespeeld mag worden: angst,
 bijgeloof, gewelddadigheid, discriminatie
 
-1.  Culturele en imaginaire functie
+*  Culturele en imaginaire functie
 
     * De persuasieve functie verdwijnt schijnbaar naar de achtergrond en er
 wordt sympathie opgewekt
 
     * VB: Benetton
 
-1.  Wollen truien in felle kleuren
+*  Wollen truien in felle kleuren
 
-1.  De producten verdwijnen en het merkbewustzijn treedt op de voorgrond
+*  De producten verdwijnen en het merkbewustzijn treedt op de voorgrond
 
-1.  Provocerence kleurtegenstellingen
+*  Provocerence kleurtegenstellingen
 
-1.  Uiteindelijk verdwijnt het product volledig en wordt ‘United colors
+*  Uiteindelijk verdwijnt het product volledig en wordt ‘United colors
     of Benetton’ een slogan
 
-1.  Kleurrijke condooms, priester & non die elkaar zoenen, huurling die
+*  Kleurrijke condooms, priester & non die elkaar zoenen, huurling die
     een menselijk dijbeen vasthoudt
 
-1.  Indruk wekken een liefdadigheidsinstelling te zijn
+*  Indruk wekken een liefdadigheidsinstelling te zijn
     (kledij-inzameling)
 
-1.  Aids-reclame: aanstootgevend & kwetsend
+*  Aids-reclame: aanstootgevend & kwetsend
 
     * Grenzen van aanstootgevende & kwetsende reclame
 
-1.  Aanstootgevende reclame = reclame die als onfatsoenlijk of
+*  Aanstootgevende reclame = reclame die als onfatsoenlijk of
     wansmakelijk wordt ervaren = een culturele kwestie
 
-1.  Kwetsende reclame = reclame die mensen rechtstreeks treft als
+*  Kwetsende reclame = reclame die mensen rechtstreeks treft als
     personen
 
     * Platvloerse & perverse reclame
 
-1.  Platvloerse reclame = reclame die iets dat voor grote groepen een
+*  Platvloerse reclame = reclame die iets dat voor grote groepen een
     hoge waarde heeft, gebruikt in een context waar dit niet thuishoort
 
-1.  VB: advertentie van een merk van vernis waarop een kruisbeeld te
+*  VB: advertentie van een merk van vernis waarop een kruisbeeld te
     zien was met als slogan “Voor de eeuwigheid”
 
-1.  Vergelijking godsdienstig symbool \<-\> duurzaamheid verfsoort
+*  Vergelijking godsdienstig symbool \<-\> duurzaamheid verfsoort
 
-1.  Perverse reclame = reclame die leidt tot een omkeer van waarden
+*  Perverse reclame = reclame die leidt tot een omkeer van waarden
 
-1.  VB: Benetton: indruk liefdadigheidsinstelling terwijl ze een
+*  VB: Benetton: indruk liefdadigheidsinstelling terwijl ze een
     commerciële organisatie zijn die mensonwaardige omstandigheden
     tolereren
 
-1.  VB: Calvin Klein: laatste avondmaal, maar dan met 13 halfnaakte
+*  VB: Calvin Klein: laatste avondmaal, maar dan met * halfnaakte
     vrouwen die enkel CK jeans dragen -\> de godsdienstige betekenis
     wordt totaal omgekeerd
 
-1.  Tekenkarakter
+*  Tekenkarakter
 
     * Consumptiegoederen hebben niet alleen een gebruikswaarde
 
@@ -356,9 +356,9 @@ maatschappelijke ladder staan, maar anderzijds willen ze zich ook
     * Semiocraten: zij die de codes bepalen waaraan bepaalde goederen hun
 tekenkarakter ontlenen
 
-1.  Negatieve gevolgen:
+*  Negatieve gevolgen:
 
-1.  Het leidt tot een cultuur waarin de identiteit van mensen verarmd
+*  Het leidt tot een cultuur waarin de identiteit van mensen verarmd
     wordt tot hun vermogen om zich bepaalde consumptiegoederen toe te
     eigenen
 
@@ -366,7 +366,7 @@ tekenkarakter ontlenen
 
     * Objecten worden gepersonifieerd
 
-1.  Het schept een situatie van subjectieve schaarste
+*  Het schept een situatie van subjectieve schaarste
 
     * De economie is gericht op het eindeloos inspelen op & stimuleren van
 subjectieve behoeften van consumenten
@@ -379,10 +379,10 @@ zijn
 
 ### Ontstaan
 
-1.  Uitgangspunt: vrijheid van het individu & beperkte macht van de
+*  Uitgangspunt: vrijheid van het individu & beperkte macht van de
     staat
 
-1.  Adam Smith (18e eeuw)
+*  Adam Smith (*e eeuw)
 
     * Eerste econoom & uitvinder van liberaal kapitalisme: zo vrij mogelijke
 markt zorgt voor de meeste welvaart
@@ -391,7 +391,7 @@ markt zorgt voor de meeste welvaart
 
     * Nastreven van individueel belang zorgt voor het algemeen belang
 
-1.  Karl Marx (19e eeuw)
+*  Karl Marx (*e eeuw)
 
     * Antikapitalist
 
@@ -402,7 +402,7 @@ productiemiddelen bezit
 
     * Ontstaan van het communistisch gedachtengoed
 
-1.  Ronald Reagan
+*  Ronald Reagan
 
     * Belastingsverlagend beleid
 
@@ -412,7 +412,7 @@ productiemiddelen bezit
 
     * Deregulering van de economie
 
-1. Stéphane Hessel
+* Stéphane Hessel
 
     * Boek "Neem het niet"
 
@@ -424,19 +424,19 @@ productiemiddelen bezit
 
 ### Kapitalisme vandaag
 
-1.  Beste economie = een zo vrij mogelijke economie
+*  Beste economie = een zo vrij mogelijke economie
 
-1.  Volgens economen: weinig regulering vanuit de overheid nodig
+*  Volgens economen: weinig regulering vanuit de overheid nodig
 
-1.  Liberalen: vrije markt heeft (bij ons) een hoge welvaart geschapen
+*  Liberalen: vrije markt heeft (bij ons) een hoge welvaart geschapen
     voor arm & rijk
 
-1.  Socialisten: de vrije markt heeft enorm veel tekortkomingen ->
+*  Socialisten: de vrije markt heeft enorm veel tekortkomingen ->
     trachten de markt vanuit de overheid bij te sturen
 
 ### Financiële crisis
 
-1.  Subprime-crisis in USA (leningen verstrekt aan
+*  Subprime-crisis in USA (leningen verstrekt aan
     minder-kredietwaardige personen)
 
     * Groter risico betalingsachterstanden
@@ -467,28 +467,28 @@ volk” alle voorrang verlenen
 
 ### Het einde van het kapitalisme?
 
-1.  Paul Mason: boek “Postcapitalism”
+*  Paul Mason: boek “Postcapitalism”
 
-1.  Volgens hem:
+*  Volgens hem:
 
     * Kapitalisme loopt op zijn laatste benen, want:
 
-1.  De behoefte aan arbeid vermindert
+*  De behoefte aan arbeid vermindert
 
-1.  Digitalisering & robotisering zullen banen vernietigen
+*  Digitalisering & robotisering zullen banen vernietigen
 
-1.  Vast werk wordt vervangen door flexibel werk -> grens tussen
+*  Vast werk wordt vervangen door flexibel werk -> grens tussen
     werkn\<-\> vrije tijd vervaagt
 
-1.  Het prijsmechanisme zal niet meer werken
+*  Het prijsmechanisme zal niet meer werken
 
-1.  Steeds meer goederen & diensten zullen gratis & in overvloed
+*  Steeds meer goederen & diensten zullen gratis & in overvloed
     beschikbaar zijn
 
-1.  De deeleconomie, coöperaties, crowdfunding & andere losse verbanden
+*  De deeleconomie, coöperaties, crowdfunding & andere losse verbanden
     nemen de plek in van hiërarchisch geleide bedrijven
 
-1.  Grens bereikt van het aanpassingsvermogen (zie: groeiende
+*  Grens bereikt van het aanpassingsvermogen (zie: groeiende
     ongelijkheid, klimaatverandering, oplopende schulden, demografische
     zorgen)
 
@@ -498,16 +498,16 @@ systeem de waarden & gedragingen van onze huidige economie vervangt
     * Hij voorspelt een postkapitalistisch systeem van netwerk, vrije tijd,
 gratis producten & diensten
 
-1.  Ongezien binnendringen van dit systeem = onmogelijk want: groot
+*  Ongezien binnendringen van dit systeem = onmogelijk want: groot
     maatschappelijk conflict tussen baanlozen \<-\> baanbezitters
 
-1.  Ontstaan van een systeem van wederzijdse ruilhandel
+*  Ontstaan van een systeem van wederzijdse ruilhandel
 
 ### Capitalism: A Love Story (Michael Moore)
 
-1.  Kapitalisme is goed, maar “trop est trop”
+*  Kapitalisme is goed, maar “trop est trop”
 
-1.  Na 9/11: Bush geeft Amerikanen heel goedkope leningen
+*  Na 9/*: Bush geeft Amerikanen heel goedkope leningen
 
     * Rentevoet stijgt
 
@@ -522,85 +522,85 @@ problemen
 
     * Belgische & Europese crisis
 
-1.  Rechters worden betaald door privébedrijven -> oneerlijke
+*  Rechters worden betaald door privébedrijven -> oneerlijke
     veroordelingen van jongeren
 
-1.  Grote bedrijven nemen levensverzekeringen voor werknemers, om zo te
+*  Grote bedrijven nemen levensverzekeringen voor werknemers, om zo te
     kunnen profiteren van hun overlijden (=”Verzekering van de dode
     boeren”)
 
-1.  “Rich get richer, poor get poorer”
+*  “Rich get richer, poor get poorer”
 
-1.  Het KAN anders; alles moet niet per sé om winst draaien
+*  Het KAN anders; alles moet niet per sé om winst draaien
 
 ### Europa en de crisis (interview met Boaventura de Sousa Santos)
 
-1.  “Waarom is de huidige crisis zo anders dan vorige crisissen?”
+*  “Waarom is de huidige crisis zo anders dan vorige crisissen?”
 
     * Allesomvattend & permanent karakter aangenomen van alles dat slecht
 gaat
 
-1.  Salarissen omlaag, pensioenen omlaag, gezondheidszorg geprivatiseerd
+*  Salarissen omlaag, pensioenen omlaag, gezondheidszorg geprivatiseerd
 
-1.  Sociaal-democratie in EU wordt afgebouwd
+*  Sociaal-democratie in EU wordt afgebouwd
 
-1.  Voorgesteld als schuldencrisis, maar is een financiële crisis
+*  Voorgesteld als schuldencrisis, maar is een financiële crisis
 
     * Veroorzaakt door gedereguleerd kapitaal dat speculeert met de miserie
 van de mensen
 
-1.  Meer landen bankroet = sterkere verrijking voor dit system
+*  Meer landen bankroet = sterkere verrijking voor dit system
 
     * Gevolgen: mensen verliezen hun werk of huis, of plegen zelfmoord
 
-1.  “De crisis is sociaal, maar ook politiek”
+*  “De crisis is sociaal, maar ook politiek”
 
     * 7 grote bedreigingen
 
-1.  Desorganisatie van de staat
+*  Desorganisatie van de staat
 
-1.  Alles wordt geprivatiseerd en ondergeschikt gemaakt aan de logica
+*  Alles wordt geprivatiseerd en ondergeschikt gemaakt aan de logica
     van de markt
 
-1.  Destabilisering van de democratie
+*  Destabilisering van de democratie
 
-1.  Het kapitalisme laat zijn ware, destructieve aard zien
+*  Het kapitalisme laat zijn ware, destructieve aard zien
 
-1.  Vernietiging van de rechten van mensen, hun toekomstperspectieven en
+*  Vernietiging van de rechten van mensen, hun toekomstperspectieven en
     de natuur, met als doel om meer winst te maken
 
-1.  Vermarkten van de kennis
+*  Vermarkten van de kennis
 
-1.  Kennis moet geld opleveren
+*  Kennis moet geld opleveren
 
-1.  Universiteiten investeren meer in biotech dan in humane
+*  Universiteiten investeren meer in biotech dan in humane
     wetenschappen
 
-1.  Vernietiging van de natuur
+*  Vernietiging van de natuur
 
-1.  Extreme natuurrampen
+*  Extreme natuurrampen
 
-1.  Gevolg: vernietiging van de bestaansmiddelen van mensen op het
+*  Gevolg: vernietiging van de bestaansmiddelen van mensen op het
     platteland
 
-1.  Devaluatie van de arbeid
+*  Devaluatie van de arbeid
 
-1.  Werk, als instrument voor burgerrechten, is volledig geërodeerd
+*  Werk, als instrument voor burgerrechten, is volledig geërodeerd
 
-1.  Steeds grotere kloof tussen betaald\<-\>onbetaald werk
+*  Steeds grotere kloof tussen betaald\<-\>onbetaald werk
 
-1.  Criminalisering van het sociaal protest
+*  Criminalisering van het sociaal protest
 
-1.  Regeringen verbieden mensen om op straat te komen, zelfs voor
+*  Regeringen verbieden mensen om op straat te komen, zelfs voor
     vreedzame protesten
 
-1.  Kolonisering van de hoofden & van alles wat anders is
+*  Kolonisering van de hoofden & van alles wat anders is
 
-1.  Racisme neemt nieuwe vormen aan, als discriminatie van andere visies
+*  Racisme neemt nieuwe vormen aan, als discriminatie van andere visies
 
-1.  VB: islamofobie
+*  VB: islamofobie
 
-1.  “Dit is wel een zeer omvattend donker beeld. Wat staat ons te doen
+*  “Dit is wel een zeer omvattend donker beeld. Wat staat ons te doen
     in zo’n situatie?”
 
     * Er zijn talloze vormen van verzet tegen het huidige systeem, maar de
@@ -609,21 +609,21 @@ media laten dit heel weinig blijken = “sociologie van het afwezige”
     * Er wordt lokaal aan alternatieven gewerkt -> krijgen geen zichtbaarheid
 -> mensen weten niet dat de alternatieven bestaan
 
-1.  “Wat biedt dan wel nog perspectief?”
+*  “Wat biedt dan wel nog perspectief?”
 
     * Niet via directe politiek
 
     * We moeten dringend werk maken van een ander kennissysteem, dat leeft
 buiten de universiteiten & onderzoeksinstellingen
 
-1.  “De manier waarop er met de Griekse crisis wordt omgegaan, getuigt
+*  “De manier waarop er met de Griekse crisis wordt omgegaan, getuigt
     van weinig creativiteit. Daar domineert ook een erg eenzijdige
     marktgerichte visie.”
 
     * Als er geen alternatief komt voor het eenzijdig Europese beleid: andere
 landen van Europa zal hetzelfde overkomen
 
-1.  “Zijn de Europese politici zich ervan bewust?”
+*  “Zijn de Europese politici zich ervan bewust?”
 
     * Barroso & Junker: ja
 
@@ -643,7 +643,7 @@ niet bestaan
 
 ### Inleiding
 
-1.  Ethische competentie = het vermogen om ethische dilemma’s rationeel
+*  Ethische competentie = het vermogen om ethische dilemma’s rationeel
     te analyseren en op basis daarvan beargumenteerde beslissingen te
     nemen
 
@@ -653,23 +653,23 @@ niet bestaan
 
 #### Waarden en morele normen
 
-1.  Waarden = grote doelen en idealen in het leven van mensen &
+*  Waarden = grote doelen en idealen in het leven van mensen &
     organisaties
 
     * Sterk bepalend voor de identiteit van een
 persoon/organisatie/samenleving
 
-1.  Morele normen = afgeleid van waarden, talrijker in aantal, minder
+*  Morele normen = afgeleid van waarden, talrijker in aantal, minder
     duurzaam, kunnen per cultuur verschillen
 
     * Regels & afspraken over hoe mensen met elkaar moeten omgaan zodat
 iedereen zichzelf kan ontplooien zonder elkaar daarbij voor de voeten te
 lopen
 
-1.  Regels = afgeleid van normen, oneindig in aantal, kunnen per cultuur
+*  Regels = afgeleid van normen, oneindig in aantal, kunnen per cultuur
     sterk verschillen, kunnen na relatief korte tijd vervangen worden
 
-1.  Morele normen zijn zonder betekenis als ze niet worden begrepen
+*  Morele normen zijn zonder betekenis als ze niet worden begrepen
     tegen een achtergrond van waarden
 
     * VB: “respect” = waarde; “beleefdheid tonen, als uiting van respect” =
@@ -677,7 +677,7 @@ norm
 
 #### Morele normen, regels en wet
 
-1.  Juridische & ethische normen vallen niet altijd samen
+*  Juridische & ethische normen vallen niet altijd samen
 
     * Iets dat moreel goed is, is niet altijd legaal & vice versa
 
@@ -685,16 +685,16 @@ norm
 snelheid naar het ziekenhuis brengen, zwart bijklussen, overspel plegen,
 vloeken,...
 
-1.  Rechterlijke uitspraken zijn vaak gebaseerd op de eigen ethische
+*  Rechterlijke uitspraken zijn vaak gebaseerd op de eigen ethische
     afwegingen van de rechters
 
 #### Missionstatement
 
-1.  = Een verklaring van de doelstellingen van een organisatie in
+*  = Een verklaring van de doelstellingen van een organisatie in
     relatie tot de verantwoordelijkheden die zij op zich neemt naar
     haar stakeholders toe
 
-1.  Beantwoordt vragen zoals:
+*  Beantwoordt vragen zoals:
 
     * Wat is de bestaansreden van de organisatie?
 
@@ -706,9 +706,9 @@ vloeken,...
 
     * Wat zijn kernwaarden die het uitgangspunt zijn voor onze activiteiten?
 
-1.  Geeft de identiteit van een organisatie weer
+*  Geeft de identiteit van een organisatie weer
 
-1.  Kan de cultuur bepalen, en kan bijdragen aan gedeelde overtuigingen,
+*  Kan de cultuur bepalen, en kan bijdragen aan gedeelde overtuigingen,
     integriteit &
 vertrouwensrelaties
 
@@ -717,36 +717,36 @@ vertrouwensrelaties
 
 #### Klokkenluiden
 
-1.  Een klokkenluider is een werknemer die in zijn onderneming een
+*  Een klokkenluider is een werknemer die in zijn onderneming een
     (vermeende) ernstige misstand constateerd & deze bij een interne
     en/of externe partij meldt, met als doel dat deze partij iets doet
     om de misstand op te lossen
 
-1.  Belangrijk: er is sprake van een ernstige misstand
+*  Belangrijk: er is sprake van een ernstige misstand
 
     * = Een situatie die schadelijk is voor het algemeen maatschappelijk
 belang en dus het individuele belang van de werknemer overstijgt
 
-1.  Klokkenluiders komen vaak in een slecht daglicht te staan
+*  Klokkenluiders komen vaak in een slecht daglicht te staan
 
-1.  Risico om meer kwaad dan goed te verrichten
+*  Risico om meer kwaad dan goed te verrichten
 
-1.  In een bedrijf waar werknemers gehoord & ernstig genomen worden, zal
+*  In een bedrijf waar werknemers gehoord & ernstig genomen worden, zal
     veel minder de neiging onstaan om interne aangeledenheiden
     publiekelijk te maken
 
-1.  In NL: werknemers mogen bepaalde opdrachten weigeren op grond van
+*  In NL: werknemers mogen bepaalde opdrachten weigeren op grond van
     gewetensbezwaren
 
     * Voorwaarden: Het moet gaan om...
 
-1.  Het individueel normenbesef omtrent goed & kwaad
+*  Het individueel normenbesef omtrent goed & kwaad
 
-1.  Concrete handelingen die de bezwaarde zelf zou moeten uitvoeren
+*  Concrete handelingen die de bezwaarde zelf zou moeten uitvoeren
 
-1.  Bezwaren die al bij de sollicitatie bekend zijn gemaakt
+*  Bezwaren die al bij de sollicitatie bekend zijn gemaakt
 
-1.  Voorbeelden:
+*  Voorbeelden:
 
     * Edward Snowden
 
@@ -754,27 +754,27 @@ belang en dus het individuele belang van de werknemer overstijgt
 
 #### Omkoperij
 
-1.  Oneerlijk tegenover concurrenten die normaal recht hadden op een
+*  Oneerlijk tegenover concurrenten die normaal recht hadden op een
     contract
 
-1.  Oneerlijk tegenover klanten & opdrachtgevers die meer moeten betalen
+*  Oneerlijk tegenover klanten & opdrachtgevers die meer moeten betalen
     of een minderwaardig product krijgen
 
-1.  Uithollen van de functie van de omgekochte: ze weten in een context
+*  Uithollen van de functie van de omgekochte: ze weten in een context
     van corruptie niet meer waaraan zich te houden
 
-1.  Ondermijning vrije concurrentie (en dus het
+*  Ondermijning vrije concurrentie (en dus het
     kapitalistisch-economisch systeem)
 
-1.  Maar: relatiegeschenken? fooien?
+*  Maar: relatiegeschenken? fooien?
 
 #### Relatiegeschenken
 
-1.  Vaak: puur symbolische waarde
+*  Vaak: puur symbolische waarde
 
     * VB: nieuwjaarsgeschenken, een etentje met potentiële klanten
 
-1.  Echter: geschenken van grotere waarde en/of met hogere frequentie
+*  Echter: geschenken van grotere waarde en/of met hogere frequentie
 
     * VB: bedrijven die voor zakenrelaties het abonnement op prestigieuze
 vaktijdschriften betalen; een onderhandelaar die, als dank voor de
@@ -783,48 +783,48 @@ vaktijdschriften betalen; een onderhandelaar die, als dank voor de
     * Bedoeld om de onafhankelijkheid van de betrokkene tegenover de gevers
 te doorbreken
 
-1.  Belangenconflict: het aanvaarden van geschenken smeedt banden van
+*  Belangenconflict: het aanvaarden van geschenken smeedt banden van
     onderlinge erkenning, vriendschap, loyaliteit of verplichtingen
 
-1.  Aan te nemen houding: mild (zoveel mogelijk vermijden, of de
+*  Aan te nemen houding: mild (zoveel mogelijk vermijden, of de
     oversten verwittigen) of radicaal afwijzen
 
     * Radicaal afwijzen = de beste houding
 
-1.  Oplossing: depersonaliseren: alle geschenken verzamelen & verloten
+*  Oplossing: depersonaliseren: alle geschenken verzamelen & verloten
     onder het personeel
 
 #### Steekpenningen en omkoperij
 
-1.  Omkoperij = zorgen dat de persoon die omgekocht wordt, zijn werk
+*  Omkoperij = zorgen dat de persoon die omgekocht wordt, zijn werk
     niet op een correcte manier zal doen
 
-1.  Afpersing = geld vragen met de bedreiging dat de gever anders niet
+*  Afpersing = geld vragen met de bedreiging dat de gever anders niet
     op de diensten of behandeling kan rekenen waarop hij normaal recht
     heeft -> de ontvanger wordt dus extra betaald om zijn werk wel
     correct te verrichten
 
-1.  Moreel belangrijk verschil: fooien zijn vrijwillig gegeven
+*  Moreel belangrijk verschil: fooien zijn vrijwillig gegeven
 
-1.  Amerika, 1977: Foreign Corrupt Practices Act
+*  Amerika, *77: Foreign Corrupt Practices Act
 
     * Verboden voor Amerikaanse bedrijven om aan functionarissen van
 buitenlandse regeringen geld te geven of aan te bieden om commerciële
 zaken te verkrijgen of tegen te houden
 
-1.  Men probeert omkoperij goed te praten door te verwijzen naar
+*  Men probeert omkoperij goed te praten door te verwijzen naar
     culturele verschillen of een minste-kwaad-argumentatie
 
 ### Non-discriminatie
 
-1.  Men pleit ervoor alle personen “fair” te behandelen
+*  Men pleit ervoor alle personen “fair” te behandelen
 
-1.  “fair” moet garanderen dat alleen de persoonlijke eigenschappen
+*  “fair” moet garanderen dat alleen de persoonlijke eigenschappen
     meetellen
 
 ### Omgaan met lastige collega’s en irritaties op de werkvloer
 
-1.  “Lastig” gedrag is een erg subjectief begrip
+*  “Lastig” gedrag is een erg subjectief begrip
 
     * Je kan iemand lastig vinden, terwijl die persoon van zichzelf vindt dat
 hij zich redelijk gedraagt
@@ -833,7 +833,7 @@ hij zich redelijk gedraagt
 
     * Je kan iemand lastig vinden simpelweg omdat de persoonlijkheden botsen
 
-1.  4 manieren om met lastige mensen om te gaan
+*  4 manieren om met lastige mensen om te gaan
 
     * Je kan het over je heen laten gaan & je af en toe beklagen bij iemand
 die er niets aan kan doen
@@ -847,7 +847,7 @@ meer geeft
 
 ### Conflicten op de werkplek
 
-1.  “Zo ontstaan conflicten”
+*  “Zo ontstaan conflicten”
 
     * Een conflict = het proces dat we doormaken als we met anderen
     * nderhandelen
@@ -855,7 +855,7 @@ meer geeft
     * Spelen een belangrijke rol: de functies van de betrokkenen, de waarde
 die zij aan de betreffende situatie hechten, hun gemoedstoestand
 
-1.  “Gevaren van conflicten”
+*  “Gevaren van conflicten”
 
     * Een serieus conflict leidt tot negatief gedrag -> varieert van de
 medewerking weigeren tot zelfs sabotage
@@ -863,7 +863,7 @@ medewerking weigeren tot zelfs sabotage
     * Mensen die zich zwak & machteloos voelen veroorzaken vaak negatief
 gedrag
 
-1.  “Voorbereiding op conflictsituaties”
+*  “Voorbereiding op conflictsituaties”
 
     * Bedenk welke situaties voor grote woede & frustratie zorgen
 
@@ -874,45 +874,45 @@ gedrag
     * Wees vergevingsgezind & durf om vergeving te vragen - draag de woede
 niet als een last mee
 
-1.  “Vijf strategieën om met conflicten om te gaan”
+*  “Vijf strategieën om met conflicten om te gaan”
 
     * Vermijden
 
-1.  Enkel nuttig indien spaarzaam gebruikt
+*  Enkel nuttig indien spaarzaam gebruikt
 
-1.  Energie over voor gevechten die belangrijker zijn
+*  Energie over voor gevechten die belangrijker zijn
 
     * Aanpassen
 
-1.  Toegeven aan de (al dan niet onredelijke) eisen van anderen
+*  Toegeven aan de (al dan niet onredelijke) eisen van anderen
 
-1.  Gevolg: grote kans op machteloosheid & frustraties
+*  Gevolg: grote kans op machteloosheid & frustraties
 
-1.  Maar: kan ook handig zijn, VB: snel bij iemand in de gunst willen
+*  Maar: kan ook handig zijn, VB: snel bij iemand in de gunst willen
     komen
 
     * Wedijveren
 
-1.  Weigeren toe te geven & per sé gelijk willen hebben
+*  Weigeren toe te geven & per sé gelijk willen hebben
 
-1.  Voordeel: teken dat iemand sterk in zijn ideeën gelooft
+*  Voordeel: teken dat iemand sterk in zijn ideeën gelooft
 
-1.  Maar: anderen dwingen om conflicten te vermijden of om zich aan te
+*  Maar: anderen dwingen om conflicten te vermijden of om zich aan te
     passen
 
     * Compromissen sluiten
 
-1.  Meest gebruikte strategie, want: leidt snel tot een situatie waar de
+*  Meest gebruikte strategie, want: leidt snel tot een situatie waar de
     meeste mensen tevreden mee zijn
 
     * Samenwerken
 
-1.  Proberen aan de behoeften van de groep te voldoen
+*  Proberen aan de behoeften van de groep te voldoen
 
-1.  Alle betrokkenen moeten gebaat zijn bij een goede afloop van het
+*  Alle betrokkenen moeten gebaat zijn bij een goede afloop van het
     conflict
 
-1.  “Het belang van conflictmanagement”
+*  “Het belang van conflictmanagement”
 
     * Een conflict loopt vaak uit de hand als er een vicieuze cirkel ontstaat
 die door geen van de partijen kan worden doorbroken
@@ -922,12 +922,12 @@ bemiddelaar op te treden & doeltreffende oplossingen voor te stellen
 
 ### Het socratisch model van leiderschap
 
-1.  Socrates geloofde dat ieder mens de waarheid in zichzelf als een
+*  Socrates geloofde dat ieder mens de waarheid in zichzelf als een
     verborgen schat draagt
 
     * Het verborgen inzicht moet vrijgemaakt worden
 
-1.  De socratische methode:
+*  De socratische methode:
 
     * Het loslaten van bestaande zekerheden
 
@@ -937,51 +937,51 @@ bemiddelaar op te treden & doeltreffende oplossingen voor te stellen
 
 ### Emotionele intelligentie
 
-1.  Componenten
+*  Componenten
 
     * Zelfbeeld
 
-1.  Naar jezelf kijken & jezelf begrijpen
+*  Naar jezelf kijken & jezelf begrijpen
 
-1.  Zelfrespect & zelfaanvaarding
+*  Zelfrespect & zelfaanvaarding
 
     * Emotioneel bewustzijn
 
-1.  Eigen gevoelens & emoties herkennen & begrijpen
+*  Eigen gevoelens & emoties herkennen & begrijpen
 
     * Assertiviteit
 
-1.  Gevoelens & overtuigingen uitdrukken
+*  Gevoelens & overtuigingen uitdrukken
 
-1.  Opkomen voor eigen rechten op een niet-destructieve manier
+*  Opkomen voor eigen rechten op een niet-destructieve manier
 
     * Onafhankelijkheid
 
-1.  Vrij & onafhankelijk zijn
+*  Vrij & onafhankelijk zijn
 
-1.  Advies vragen maar er niet afhankelijk van zijn
+*  Advies vragen maar er niet afhankelijk van zijn
 
     * Empathie
 
-1.  Aandachtig zijn voor andermans gevoelens & ze begrijpen en
+*  Aandachtig zijn voor andermans gevoelens & ze begrijpen en
     aanvaarden
 
     * Sociale verantwoordelijkheid
 
-1.  Bijdragend & constructief zijn in alle groepen waar men deel van
+*  Bijdragend & constructief zijn in alle groepen waar men deel van
     uitmaakt
 
     * Flexibiliteit
 
-1.  Je houding & denken kunnen aanpassen aan veranderende situaties
+*  Je houding & denken kunnen aanpassen aan veranderende situaties
 
     * Stressbeheersing
 
-1.  Stand houden onder druk of in moeilijke situaties
+*  Stand houden onder druk of in moeilijke situaties
 
     * Optimisme
 
-1.  Een positieve ingesteldheid behouden als het tegenzit
+*  Een positieve ingesteldheid behouden als het tegenzit
 
 
 ## Module 4: Ethische cases
@@ -996,31 +996,31 @@ Elk bedrijf heeft een mission statement, uiteengezet in document / op hun site.
 
 ### Cases
 
-1. Giftige stoffen fabriek
+* Giftige stoffen fabriek
 
     - Ga je whistle blowen?
 
-1. Relatiegeschenken
+* Relatiegeschenken
 
     - Neem je ze aan zoals je collega's?
 
-1. Werknemers bespieden
+* Werknemers bespieden
 
     - Baas kijkt continue mee met camera's. What do?
 
-1. Pesten op het werk
+* Pesten op het werk
 
     - Je vindt de persoon zelf niet chill. What do?
 
-1. Veiligheid & tijdsdruk
+* Veiligheid & tijdsdruk
 
     - Winst of risico?
 
-1. Privacy
+* Privacy
 
     - Je repareert computer. Persoon kijkt elke dag porno op zijn werk. Melden?
 
-1. Carrière
+* Carrière
 
 Welke waarden zoek je in een bedrijf?
 
@@ -1028,21 +1028,21 @@ Welke waarden zoek je in een bedrijf?
 
 -> Een techiek om elk ethisch probleem "op te lossen"
 
-1. Kern probleem opstellen
+* Kern probleem opstellen
 
     - Enkel het "moreel probleem" er uit filteren
 
-1. Beschrijf de belangen van alle betrokkenen
+* Beschrijf de belangen van alle betrokkenen
 
-1. Beschrijf alternatieven
+* Beschrijf alternatieven
 
     - Zijn er verschillende oplossingen?
 
-1. Per alternatief: Wie wordt er positief/negatief geraakt?
+* Per alternatief: Wie wordt er positief/negatief geraakt?
 
-1. Welke morele normen/waarden komen aan bod?
+* Welke morele normen/waarden komen aan bod?
 
-1. Maak een beredeneerde conclusie
+* Maak een beredeneerde conclusie
 
 ### Communicatie en emotionele intelligentie
 
@@ -1054,27 +1054,27 @@ Ruis op communicatie: persoonlijke bias, dubbelzinnigheid, non-verbale comm. nie
 
 Axioma: Algemeen aanvaarde doch niet bewezen stelling
 
-1. Het is onmogelijk om niet te communiceren
+* Het is onmogelijk om niet te communiceren
 
     - Elk gedrag is Communicatie
 
-1. We beïnvloeden met en zonder woorden
+* We beïnvloeden met en zonder woorden
 
     - Digitale taal: Overeengekomen taal (geschreven, gesproken)
 
     - Analoge taal: Niet overeengekomen taal (cultureel bepaald, non-verbaal)
 
-1. Elk zijn waarheid
+* Elk zijn waarheid
 
     - Context ander begrijpen
 
-1. Je spreekt altijd dubbel
+* Je spreekt altijd dubbel
 
     - Praten = zeggen hoe ik wil dat de ander met mij omgaat
     - Relationeel aspect communicatie
     - Inhoudelijk aspect communicatie
 
-1. Wie heeft her voor het zeggen?
+* Wie heeft her voor het zeggen?
 
     - Symmetrische communicatie: Gelijke hiërarchie
     - Complementaire communicatie: Aanvullend: niet hiërarchisch
