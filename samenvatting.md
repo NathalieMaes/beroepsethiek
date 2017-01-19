@@ -270,24 +270,24 @@ niet voldoet aan de verwachtingen
 
     * Associatieve reclame
 
-*  VB: Coca Cola -> jong & levenskracht; Baccardi -> paradijselijke
-    toestanden
+        *  VB: Coca Cola -> jong & levenskracht; Baccardi -> paradijselijke
+            toestanden
 
-    * Fysieke behoeften zijn beperkt (voedsel, drank, kleding, woning)
+            * Fysieke behoeften zijn beperkt (voedsel, drank, kleding, woning)
 
-    * Psychische behoeften zijn onbeperkt (geborgenheid, genot, seksuele
-aantrekking, macht, status,...)
+            * Psychische behoeften zijn onbeperkt (geborgenheid, genot, seksuele
+        aantrekking, macht, status,...)
 
 
-    * VB:
+            * VB:
 
-        * Fysiek: mensen hebben slecht een beperkt aantal kleren ondig
+                * Fysiek: mensen hebben slecht een beperkt aantal kleren ondig
 
-        * Psychisch: ook kleren nodig voor meer status, schoonheid,
-    uitstraling,...
+                * Psychisch: ook kleren nodig voor meer status, schoonheid,
+            uitstraling,...
 
-    * Gevoelens & behoeften waarop niet ingespeeld mag worden: angst,
-bijgeloof, gewelddadigheid, discriminatie
+            * Gevoelens & behoeften waarop niet ingespeeld mag worden: angst,
+        bijgeloof, gewelddadigheid, discriminatie
 
 *  Culturele en imaginaire functie
 
@@ -296,50 +296,50 @@ wordt sympathie opgewekt
 
     * VB: Benetton
 
-*  Wollen truien in felle kleuren
+        *  Wollen truien in felle kleuren
 
-*  De producten verdwijnen en het merkbewustzijn treedt op de voorgrond
+        *  De producten verdwijnen en het merkbewustzijn treedt op de voorgrond
 
-*  Provocerence kleurtegenstellingen
+        *  Provocerence kleurtegenstellingen
 
-*  Uiteindelijk verdwijnt het product volledig en wordt ‘United colors
-    of Benetton’ een slogan
+        *  Uiteindelijk verdwijnt het product volledig en wordt ‘United colors
+            of Benetton’ een slogan
 
-*  Kleurrijke condooms, priester & non die elkaar zoenen, huurling die
-    een menselijk dijbeen vasthoudt
+        *  Kleurrijke condooms, priester & non die elkaar zoenen, huurling die
+            een menselijk dijbeen vasthoudt
 
-*  Indruk wekken een liefdadigheidsinstelling te zijn
-    (kledij-inzameling)
+        *  Indruk wekken een liefdadigheidsinstelling te zijn
+            (kledij-inzameling)
 
-*  Aids-reclame: aanstootgevend & kwetsend
+        *  Aids-reclame: aanstootgevend & kwetsend
 
     * Grenzen van aanstootgevende & kwetsende reclame
 
-*  Aanstootgevende reclame = reclame die als onfatsoenlijk of
-    wansmakelijk wordt ervaren = een culturele kwestie
+        *  Aanstootgevende reclame = reclame die als onfatsoenlijk of
+            wansmakelijk wordt ervaren = een culturele kwestie
 
-*  Kwetsende reclame = reclame die mensen rechtstreeks treft als
-    personen
+        *  Kwetsende reclame = reclame die mensen rechtstreeks treft als
+            personen
 
     * Platvloerse & perverse reclame
 
-*  Platvloerse reclame = reclame die iets dat voor grote groepen een
-    hoge waarde heeft, gebruikt in een context waar dit niet thuishoort
+        *  Platvloerse reclame = reclame die iets dat voor grote groepen een
+            hoge waarde heeft, gebruikt in een context waar dit niet thuishoort
 
-*  VB: advertentie van een merk van vernis waarop een kruisbeeld te
-    zien was met als slogan “Voor de eeuwigheid”
+            *  VB: advertentie van een merk van vernis waarop een kruisbeeld te
+            zien was met als slogan “Voor de eeuwigheid”
 
-*  Vergelijking godsdienstig symbool \<-\> duurzaamheid verfsoort
+            *  Vergelijking godsdienstig symbool \<-\> duurzaamheid verfsoort
 
-*  Perverse reclame = reclame die leidt tot een omkeer van waarden
+        *  Perverse reclame = reclame die leidt tot een omkeer van waarden
 
-*  VB: Benetton: indruk liefdadigheidsinstelling terwijl ze een
-    commerciële organisatie zijn die mensonwaardige omstandigheden
-    tolereren
+            *  VB: Benetton: indruk liefdadigheidsinstelling terwijl ze een
+            commerciële organisatie zijn die mensonwaardige omstandigheden
+            tolereren
 
-*  VB: Calvin Klein: laatste avondmaal, maar dan met * halfnaakte
-    vrouwen die enkel CK jeans dragen -\> de godsdienstige betekenis
-    wordt totaal omgekeerd
+            *  VB: Calvin Klein: laatste avondmaal, maar dan met * halfnaakte
+            vrouwen die enkel CK jeans dragen -\> de godsdienstige betekenis
+            wordt totaal omgekeerd
 
 *  Tekenkarakter
 
@@ -353,27 +353,27 @@ maatschappelijke ladder staan, maar anderzijds willen ze zich ook
     * nderscheiden van diegenen aan wie ze gelijk zijn
 
 
-    * Semiocraten: zij die de codes bepalen waaraan bepaalde goederen hun
+* Semiocraten: zij die de codes bepalen waaraan bepaalde goederen hun
 tekenkarakter ontlenen
 
-*  Negatieve gevolgen:
+    *  Negatieve gevolgen:
 
-*  Het leidt tot een cultuur waarin de identiteit van mensen verarmd
-    wordt tot hun vermogen om zich bepaalde consumptiegoederen toe te
-    eigenen
+    *  Het leidt tot een cultuur waarin de identiteit van mensen verarmd
+        wordt tot hun vermogen om zich bepaalde consumptiegoederen toe te
+        eigenen
 
-    * Personen ontlenen hun identiteit aan objecten, ze worden geobjectiveerd
+        * Personen ontlenen hun identiteit aan objecten, ze worden geobjectiveerd
 
-    * Objecten worden gepersonifieerd
+        * Objecten worden gepersonifieerd
 
-*  Het schept een situatie van subjectieve schaarste
+    *  Het schept een situatie van subjectieve schaarste
 
-    * De economie is gericht op het eindeloos inspelen op & stimuleren van
-subjectieve behoeften van consumenten
+        * De economie is gericht op het eindeloos inspelen op & stimuleren van
+    subjectieve behoeften van consumenten
 
-    * Afwending van de objectieve schaarste van mensen die over geen
-koopkracht beschikken en wier basisbehoeften nog steeds niet bevredigd
-zijn
+        * Afwending van de objectieve schaarste van mensen die over geen
+    koopkracht beschikken en wier basisbehoeften nog steeds niet bevredigd
+    zijn
 
 ## Module 2: Kapitalisme & de financiële crisis
 
