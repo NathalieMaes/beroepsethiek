@@ -642,8 +642,6 @@ niet bestaan
     te analyseren en op basis daarvan beargumenteerde beslissingen te
     nemen
 
- 
-
 ### De ethische competentie van de organisatie als geheel
 
 #### Waarden en morele normen
@@ -676,9 +674,7 @@ norm
 
     * Iets dat moreel goed is, is niet altijd legaal & vice versa
 
-    * VB: belofte doen zonder die na te komen, een gewonde aan overdreven
-snelheid naar het ziekenhuis brengen, zwart bijklussen, overspel plegen,
-vloeken,...
+    * VB: belofte doen zonder die na te komen, een gewonde aan overdreven snelheid naar het ziekenhuis brengen, zwart bijklussen, overspel plegen, vloeken …
 
 *  Rechterlijke uitspraken zijn vaak gebaseerd op de eigen ethische
     afwegingen van de rechters
@@ -713,7 +709,7 @@ vertrouwensrelaties
 #### Klokkenluiden
 
 *  Een klokkenluider is een werknemer die in zijn onderneming een
-    (vermeende) ernstige misstand constateerd & deze bij een interne
+    (vermeende) ernstige misstand constateert & deze bij een interne
     en/of externe partij meldt, met als doel dat deze partij iets doet
     om de misstand op te lossen
 
@@ -735,11 +731,11 @@ belang en dus het individuele belang van de werknemer overstijgt
 
     * Voorwaarden: Het moet gaan om...
 
-*  Het individueel normenbesef omtrent goed & kwaad
+        *  Het individueel normenbesef omtrent goed & kwaad
 
-*  Concrete handelingen die de bezwaarde zelf zou moeten uitvoeren
+        *  Concrete handelingen die de bezwaarde zelf zou moeten uitvoeren
 
-*  Bezwaren die al bij de sollicitatie bekend zijn gemaakt
+        *  Bezwaren die al bij de sollicitatie bekend zijn gemaakt
 
 *  Voorbeelden:
 
@@ -771,18 +767,13 @@ belang en dus het individuele belang van de werknemer overstijgt
 
 *  Echter: geschenken van grotere waarde en/of met hogere frequentie
 
-    * VB: bedrijven die voor zakenrelaties het abonnement op prestigieuze
-vaktijdschriften betalen; een onderhandelaar die, als dank voor de
-‘vlotte samenwerking’ een PC cadeau krijgt van een leverancier
+    * VB: bedrijven die voor zakenrelaties het abonnement op prestigieuze vaktijdschriften betalen; een onderhandelaar die, als dank voor de ‘vlotte samenwerking’ een PC cadeau krijgt van een leverancier
 
-    * Bedoeld om de onafhankelijkheid van de betrokkene tegenover de gevers
-te doorbreken
+    * Bedoeld om de onafhankelijkheid van de betrokkene tegenover de gevers te doorbreken
 
-*  Belangenconflict: het aanvaarden van geschenken smeedt banden van
-    onderlinge erkenning, vriendschap, loyaliteit of verplichtingen
+*  Belangenconflict: het aanvaarden van geschenken smeedt banden van onderlinge erkenning, vriendschap, loyaliteit of verplichtingen
 
-*  Aan te nemen houding: mild (zoveel mogelijk vermijden, of de
-    oversten verwittigen) of radicaal afwijzen
+*  Aan te nemen houding: mild (zoveel mogelijk vermijden, of de oversten verwittigen) of radicaal afwijzen
 
     * Radicaal afwijzen = de beste houding
 
@@ -801,7 +792,7 @@ te doorbreken
 
 *  Moreel belangrijk verschil: fooien zijn vrijwillig gegeven
 
-*  Amerika, *77: Foreign Corrupt Practices Act
+*  Amerika, 1977: Foreign Corrupt Practices Act
 
     * Verboden voor Amerikaanse bedrijven om aan functionarissen van
 buitenlandse regeringen geld te geven of aan te bieden om commerciële
@@ -821,8 +812,7 @@ zaken te verkrijgen of tegen te houden
 
 *  “Lastig” gedrag is een erg subjectief begrip
 
-    * Je kan iemand lastig vinden, terwijl die persoon van zichzelf vindt dat
-hij zich redelijk gedraagt
+    * Je kan iemand lastig vinden, terwijl die persoon van zichzelf vindt dat hij zich redelijk gedraagt
 
     * Iemand kan zich bewust lastig gedragen om zo mensen te beïnvloeden
 
@@ -830,13 +820,11 @@ hij zich redelijk gedraagt
 
 *  4 manieren om met lastige mensen om te gaan
 
-    * Je kan het over je heen laten gaan & je af en toe beklagen bij iemand
-die er niets aan kan doen
+    * Je kan het over je heen laten gaan & je af en toe beklagen bij iemand die er niets aan kan doen
 
     * Je kan opstappen
 
-    * Je kan je eigen houding veranderen, waardoor je geen ongewenste reactie
-meer geeft
+    * Je kan je eigen houding veranderen, waardoor je geen ongewenste reactie meer geeft
 
     * Je kan je gedrag veranderen
 
@@ -873,39 +861,38 @@ niet als een last mee
 
     * Vermijden
 
-*  Enkel nuttig indien spaarzaam gebruikt
+        *  Enkel nuttig indien spaarzaam gebruikt
 
-*  Energie over voor gevechten die belangrijker zijn
+        *  Energie over voor gevechten die belangrijker zijn
 
     * Aanpassen
 
-*  Toegeven aan de (al dan niet onredelijke) eisen van anderen
+        *  Toegeven aan de (al dan niet onredelijke) eisen van anderen
 
-*  Gevolg: grote kans op machteloosheid & frustraties
+        *  Gevolg: grote kans op machteloosheid & frustraties
 
-*  Maar: kan ook handig zijn, VB: snel bij iemand in de gunst willen
-    komen
+        *  Maar: kan ook handig zijn, VB: snel bij iemand in de gunst willen
+            komen
 
     * Wedijveren
 
-*  Weigeren toe te geven & per sé gelijk willen hebben
+        *  Weigeren toe te geven & per sé gelijk willen hebben
 
-*  Voordeel: teken dat iemand sterk in zijn ideeën gelooft
+        *  Voordeel: teken dat iemand sterk in zijn ideeën gelooft
 
-*  Maar: anderen dwingen om conflicten te vermijden of om zich aan te
-    passen
+        *  Maar: anderen dwingen om conflicten te vermijden of om zich aan te
+            passen
 
     * Compromissen sluiten
 
-*  Meest gebruikte strategie, want: leidt snel tot een situatie waar de
-    meeste mensen tevreden mee zijn
+        *  Meest gebruikte strategie, want: leidt snel tot een situatie waar de
+            meeste mensen tevreden mee zijn
 
     * Samenwerken
 
-*  Proberen aan de behoeften van de groep te voldoen
+        *  Proberen aan de behoeften van de groep te voldoen
 
-*  Alle betrokkenen moeten gebaat zijn bij een goede afloop van het
-    conflict
+        *  Alle betrokkenen moeten gebaat zijn bij een goede afloop van het conflict
 
 *  “Het belang van conflictmanagement”
 
@@ -936,47 +923,47 @@ bemiddelaar op te treden & doeltreffende oplossingen voor te stellen
 
     * Zelfbeeld
 
-*  Naar jezelf kijken & jezelf begrijpen
+        *  Naar jezelf kijken & jezelf begrijpen
 
-*  Zelfrespect & zelfaanvaarding
+        *  Zelfrespect & zelfaanvaarding
 
     * Emotioneel bewustzijn
 
-*  Eigen gevoelens & emoties herkennen & begrijpen
+        *  Eigen gevoelens & emoties herkennen & begrijpen
 
     * Assertiviteit
 
-*  Gevoelens & overtuigingen uitdrukken
+        *  Gevoelens & overtuigingen uitdrukken
 
-*  Opkomen voor eigen rechten op een niet-destructieve manier
+        *  Opkomen voor eigen rechten op een niet-destructieve manier
 
     * Onafhankelijkheid
 
-*  Vrij & onafhankelijk zijn
+        *  Vrij & onafhankelijk zijn
 
-*  Advies vragen maar er niet afhankelijk van zijn
+        *  Advies vragen maar er niet afhankelijk van zijn
 
     * Empathie
 
-*  Aandachtig zijn voor andermans gevoelens & ze begrijpen en
-    aanvaarden
+        *  Aandachtig zijn voor andermans gevoelens & ze begrijpen en
+            aanvaarden
 
     * Sociale verantwoordelijkheid
 
-*  Bijdragend & constructief zijn in alle groepen waar men deel van
-    uitmaakt
+        *  Bijdragend & constructief zijn in alle groepen waar men deel van
+            uitmaakt
 
     * Flexibiliteit
 
-*  Je houding & denken kunnen aanpassen aan veranderende situaties
+        *  Je houding & denken kunnen aanpassen aan veranderende situaties
 
     * Stressbeheersing
 
-*  Stand houden onder druk of in moeilijke situaties
+        *  Stand houden onder druk of in moeilijke situaties
 
     * Optimisme
 
-*  Een positieve ingesteldheid behouden als het tegenzit
+        *  Een positieve ingesteldheid behouden als het tegenzit
 
 
 ## Module 4: Ethische cases
