@@ -7,52 +7,52 @@ omgezet naar markdown via pandoc en manuele aanpassingen door Haroen Viaene
 <!-- toc -->
 
 - [Module 1: Bedrijfsethiek](#module-1-bedrijfsethiek)
-  * [Inleiding](#inleiding)
-    + [Omschrijving en definities](#omschrijving-en-definities)
-  * [Historische achtergrond](#historische-achtergrond)
-  * [Waarom bedrijfsethiek?](#waarom-bedrijfsethiek)
-    + [Veranderende maatschappelijke rol van de ondernemingen](#veranderende-maatschappelijke-rol-van-de-ondernemingen)
-    + [Globalisering](#globalisering)
-    + [Technologische ontwikkeling](#technologische-ontwikkeling)
-    + [Democratisering van het moreel gezag](#democratisering-van-het-moreel-gezag)
-  * [Maatschappelijk verantwoord ondernemen & bedrijfsethiek](#maatschappelijk-verantwoord-ondernemen--bedrijfsethiek)
-  * [De stakeholders van de onderneming](#de-stakeholders-van-de-onderneming)
-      - [Verantwoordelijkheid voor stakeholders](#verantwoordelijkheid-voor-stakeholders)
-  * [De overheid als stakeholder](#de-overheid-als-stakeholder)
-  * [Verantwoordelijkheid voor consumenten](#verantwoordelijkheid-voor-consumenten)
-    + [Productieverantwoordelijkheid](#productieverantwoordelijkheid)
-    + [Reclame en ethiek](#reclame-en-ethiek)
+    * [Inleiding](#inleiding)
+        + [Omschrijving en definities](#omschrijving-en-definities)
+    * [Historische achtergrond](#historische-achtergrond)
+    * [Waarom bedrijfsethiek?](#waarom-bedrijfsethiek)
+        + [Veranderende maatschappelijke rol van de ondernemingen](#veranderende-maatschappelijke-rol-van-de-ondernemingen)
+        + [Globalisering](#globalisering)
+        + [Technologische ontwikkeling](#technologische-ontwikkeling)
+        + [Democratisering van het moreel gezag](#democratisering-van-het-moreel-gezag)
+    * [Maatschappelijk verantwoord ondernemen & bedrijfsethiek](#maatschappelijk-verantwoord-ondernemen--bedrijfsethiek)
+    * [De stakeholders van de onderneming](#de-stakeholders-van-de-onderneming)
+        + [Verantwoordelijkheid voor stakeholders](#verantwoordelijkheid-voor-stakeholders)
+        + [De overheid als stakeholder](#de-overheid-als-stakeholder)
+    * [Verantwoordelijkheid voor consumenten](#verantwoordelijkheid-voor-consumenten)
+        + [Productieverantwoordelijkheid](#productieverantwoordelijkheid)
+        + [Reclame en ethiek](#reclame-en-ethiek)
 - [Module 2: Kapitalisme & de financiële crisis](#module-2-kapitalisme--de-financiele-crisis)
-  * [Ontstaan](#ontstaan)
-  * [Kapitalisme vandaag](#kapitalisme-vandaag)
-  * [Financiële crisis](#financiele-crisis)
-  * [Het einde van het kapitalisme?](#het-einde-van-het-kapitalisme)
-  * [Capitalism: A Love Story (Michael Moore)](#capitalism-a-love-story-michael-moore)
-  * [Europa en de crisis (interview met Boaventura de Sousa Santos)](#europa-en-de-crisis-interview-met-boaventura-de-sousa-santos)
+    * [Ontstaan](#ontstaan)
+    * [Kapitalisme vandaag](#kapitalisme-vandaag)
+    * [Financiële crisis](#financiele-crisis)
+    * [Het einde van het kapitalisme?](#het-einde-van-het-kapitalisme)
+    * [Capitalism: A Love Story (Michael Moore)](#capitalism-a-love-story-michael-moore)
+    * [Europa en de crisis (interview met Boaventura de Sousa Santos)](#europa-en-de-crisis-interview-met-boaventura-de-sousa-santos)
 - [Module 3: Ethische competentie](#module-3-ethische-competentie)
-  * [Inleiding](#inleiding-1)
-  * [De ethische competentie van de organisatie als geheel](#de-ethische-competentie-van-de-organisatie-als-geheel)
-    + [Waarden en morele normen](#waarden-en-morele-normen)
-    + [Morele normen, regels en wet](#morele-normen-regels-en-wet)
-    + [Missionstatement](#missionstatement)
-  * [De individuele ethische competentie van de werknemer in de organisatie](#de-individuele-ethische-competentie-van-de-werknemer-in-de-organisatie)
-    + [Klokkenluiden](#klokkenluiden)
-    + [Omkoperij](#omkoperij)
-    + [Relatiegeschenken](#relatiegeschenken)
-    + [Steekpenningen en omkoperij](#steekpenningen-en-omkoperij)
-  * [Non-discriminatie](#non-discriminatie)
-  * [Omgaan met lastige collega’s en irritaties op de werkvloer](#omgaan-met-lastige-collegas-en-irritaties-op-de-werkvloer)
-  * [Conflicten op de werkplek](#conflicten-op-de-werkplek)
-  * [Het socratisch model van leiderschap](#het-socratisch-model-van-leiderschap)
-  * [Emotionele intelligentie](#emotionele-intelligentie)
+    * [Inleiding](#inleiding-1)
+    * [De ethische competentie van de organisatie als geheel](#de-ethische-competentie-van-de-organisatie-als-geheel)
+        + [Waarden en morele normen](#waarden-en-morele-normen)
+        + [Morele normen, regels en wet](#morele-normen-regels-en-wet)
+        + [Missionstatement](#missionstatement)
+    * [De individuele ethische competentie van de werknemer in de organisatie](#de-individuele-ethische-competentie-van-de-werknemer-in-de-organisatie)
+        + [Klokkenluiden](#klokkenluiden)
+        + [Omkoperij](#omkoperij)
+        + [Relatiegeschenken](#relatiegeschenken)
+        + [Steekpenningen en omkoperij](#steekpenningen-en-omkoperij)
+    * [Non-discriminatie](#non-discriminatie)
+    * [Omgaan met lastige collega’s en irritaties op de werkvloer](#omgaan-met-lastige-collegas-en-irritaties-op-de-werkvloer)
+    * [Conflicten op de werkplek](#conflicten-op-de-werkplek)
+    * [Het socratisch model van leiderschap](#het-socratisch-model-van-leiderschap)
+    * [Emotionele intelligentie](#emotionele-intelligentie)
 - [Module 4: Ethische cases](#module-4-ethische-cases)
-  * [Mission statement](#mission-statement)
-  * [Reflectie waarden](#reflectie-waarden)
-  * [Cases](#cases)
-  * [Analyse morele dilemma's](#analyse-morele-dilemmas)
-  * [Communicatie en emotionele intelligentie](#communicatie-en-emotionele-intelligentie)
-  * [Communicatietheorie Watzlawick: 5 Axioma's](#communicatietheorie-watzlawick-5-axiomas)
-  * [Emotionele intelligentie](#emotionele-intelligentie-1)
+    * [Mission statement](#mission-statement)
+    * [Reflectie waarden](#reflectie-waarden)
+    * [Cases](#cases)
+    * [Analyse morele dilemma's](#analyse-morele-dilemmas)
+    * [Communicatie en emotionele intelligentie](#communicatie-en-emotionele-intelligentie)
+    * [Communicatietheorie Watzlawick: 5 Axioma's](#communicatietheorie-watzlawick-5-axiomas)
+    * [Emotionele intelligentie](#emotionele-intelligentie-1)
 
 <!-- tocstop -->
 
@@ -189,7 +189,7 @@ vertragingen te aanvaarden, ten koste van de veiligheid
 
     * Veeleer: welke belangen zijn moreel gerechtvaardigd
 
-##### Verantwoordelijkheid voor stakeholders
+#### Verantwoordelijkheid voor stakeholders
 
 *  Economische stakeholders
 
@@ -203,7 +203,7 @@ en die een deel van het risico dragen”
 *  Voorbeeld slechte stakeholding: Shell
 
 
-### De overheid als stakeholder
+#### De overheid als stakeholder
 
 *  Economische EN maatschappelijke stakeholder
 
@@ -950,8 +950,7 @@ bemiddelaar op te treden & doeltreffende oplossingen voor te stellen
 
     * Sociale verantwoordelijkheid
 
-        *  Bijdragend & constructief zijn in alle groepen waar men deel van
-            uitmaakt
+        *  Bijdragend & constructief zijn in alle groepen waar men deel van uitmaakt
 
     * Flexibiliteit
 
@@ -980,27 +979,27 @@ Elk bedrijf heeft een mission statement, uiteengezet in document / op hun site.
 
 * Giftige stoffen fabriek
 
-    - Ga je whistle blowen?
+    * Ga je whistle blowen?
 
 * Relatiegeschenken
 
-    - Neem je ze aan zoals je collega's?
+    * Neem je ze aan zoals je collega's?
 
 * Werknemers bespieden
 
-    - Baas kijkt continue mee met camera's. What do?
+    * Baas kijkt continue mee met camera's. What do?
 
 * Pesten op het werk
 
-    - Je vindt de persoon zelf niet chill. What do?
+    * Je vindt de persoon zelf niet chill. What do?
 
 * Veiligheid & tijdsdruk
 
-    - Winst of risico?
+    * Winst of risico?
 
 * Privacy
 
-    - Je repareert computer. Persoon kijkt elke dag porno op zijn werk. Melden?
+    * Je repareert computer. Persoon kijkt elke dag porno op zijn werk. Melden?
 
 * Carrière
 
@@ -1012,13 +1011,13 @@ Welke waarden zoek je in een bedrijf?
 
 * Kern probleem opstellen
 
-    - Enkel het "moreel probleem" er uit filteren
+    * Enkel het "moreel probleem" er uit filteren
 
 * Beschrijf de belangen van alle betrokkenen
 
 * Beschrijf alternatieven
 
-    - Zijn er verschillende oplossingen?
+    * Zijn er verschillende oplossingen?
 
 * Per alternatief: Wie wordt er positief/negatief geraakt?
 
@@ -1038,28 +1037,28 @@ Axioma: Algemeen aanvaarde doch niet bewezen stelling
 
 * Het is onmogelijk om niet te communiceren
 
-    - Elk gedrag is Communicatie
+    * Elk gedrag is Communicatie
 
 * We beïnvloeden met en zonder woorden
 
-    - Digitale taal: Overeengekomen taal (geschreven, gesproken)
+    * Digitale taal: Overeengekomen taal (geschreven, gesproken)
 
-    - Analoge taal: Niet overeengekomen taal (cultureel bepaald, non-verbaal)
+    * Analoge taal: Niet overeengekomen taal (cultureel bepaald, non-verbaal)
 
 * Elk zijn waarheid
 
-    - Context ander begrijpen
+    * Context ander begrijpen
 
 * Je spreekt altijd dubbel
 
-    - Praten = zeggen hoe ik wil dat de ander met mij omgaat
-    - Relationeel aspect communicatie
-    - Inhoudelijk aspect communicatie
+    * Praten = zeggen hoe ik wil dat de ander met mij omgaat
+    * Relationeel aspect communicatie
+    * Inhoudelijk aspect communicatie
 
 * Wie heeft her voor het zeggen?
 
-    - Symmetrische communicatie: Gelijke hiërarchie
-    - Complementaire communicatie: Aanvullend: niet hiërarchisch
+    * Symmetrische communicatie: Gelijke hiërarchie
+    * Complementaire communicatie: Aanvullend: niet hiërarchisch
 
 ### Emotionele intelligentie
 
